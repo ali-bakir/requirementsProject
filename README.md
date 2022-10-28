@@ -17,7 +17,7 @@ To check it, we can type the code into the terminal.
 
 ## The following is a screenshot of the solution;
 <br>
-<img src="img/requirementsProject.png"  align="left" alt="desktop_version">
+<img src="img/requirements-project.png"  align="left" alt="desktop_version">
 <br>
 <br>
 <br>
